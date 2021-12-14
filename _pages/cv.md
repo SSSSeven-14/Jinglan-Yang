@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -26,15 +26,6 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -52,15 +43,25 @@ Talks
     {% endfor %}
   </ul>
   
-Teaching
+<!-- Teaching
 ======
   <ul>
     {% for post in site.teaching %}
     {% include archive-single-cv.html %}
     {% endfor %}
-  </ul>
+  </ul> -->
   
 Community Service and Leadership
 ======
-* Reviewer
+* Journal Reviewer
+  * Systems Engineering (Chinese journal, 21 reviews)
+* Mentorship
+  * MBA thesis advisor (6 students), Hunan University, 2018 - 2019
+  * Undergraduate thesis advisor (2 students), Hunan University, 2018
+* Volunteer
+  * Global Community Development Project InteGREAT, Tampere, Finland, 2017
 
+Skills and Languages
+======
+* Mandarin Chinese (native), English (fluent), Korean (basic)
+* R, Python, Stata, EViews, CiteSpace, VOSviewer, MAXQDA, NVivo, Microsoft Office Suite
