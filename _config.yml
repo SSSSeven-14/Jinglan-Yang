@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Jinglan Yang"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Jinglan Yang"
+description              : &description "Ph.D candidate at Hunan University"
 url                      : https://SSSSeven-14.github.io/JinglanYang # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sssseven-14.github.io"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Jinglan Yang"
+  avatar           : "avatar1.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
