@@ -15,7 +15,7 @@ Education
 * M.S. in Management Science and Engineering, Hunan University, 2018
 * Ph.D in Business Administration, Hunan University, 2023 (expected)
 
-Work experience
+<!-- Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -25,7 +25,29 @@ Work experience
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Hub -->
+
+Honors and Awards
+* Ph.D. Fellow, Hunan University, 2018
+* Outstanding Volunteer, AIESEC, 2017
+* Excellent Undergraduate with Honor, Gannan Normal University, 2015
+
+
+Research Projects
+* Research on Risk Prevention and Governance of Informal Financial Activities under the 
+Background of FinTech (Grant No. 71850012)
+  * Collaborated with professors to research on the governance mechanism and strategy of digital 
+platform driven by blockchain.
+* The key technologies and their application of the blockchain platform of supply chain finance with 
+electronic information (Grant No. 2018GK1020)
+  * Headed research on the impact of digital platform features based on blockchain technology on 
+firm performance
+
+Patents
+* Ma C., Yang J., Zhou Z., Li X., & Lan Q. 2021-06-11, “Bill Financing Method, System, Equipment and 
+Medium Based on Intelligent Matching Platform.” CN112950203A
+* Ma C., Yang J., Zhou Z., Li X., & Lan Q. 2021-06-11, “Bill Financing Method, System, Equipment and 
+Medium Based on Intelligent Auction Platform.” CN112950339A
 
 Publications
 ======
@@ -35,13 +57,13 @@ Publications
     {% endfor %}
   </ul>
   
-Talks
+<!-- Talks
 ======
   <ul>
     {% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
     {% endfor %}
-  </ul>
+  </ul> -->
   
 <!-- Teaching
 ======
