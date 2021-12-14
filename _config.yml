@@ -83,12 +83,13 @@ author:
   name             : "Jinglan Yang"
   avatar           : "avatar1.jpg"
   bio              : "Ph.D. Candidate, Department of Business Administration, Hunan University, Hunan, China"
-  location         : "A305, College of Business Administration, Hunan University, No.11 South Yuelu Road, Changsha, Hunan Province 410082, P.R. China"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  location         : "A305, College of Business Administration, Hunan University, 
+  No.11 South Yuelu Road, Changsha, Hunan Province 410082, P.R. China"
+  employer         : "HunanU"
+  pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net"
   uri              :
   bitbucket        :
   codepen          :
@@ -100,16 +101,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
-  linkedin         :
-  orcid            : 
+  linkedin         : "https://linkedin.com"
+  orcid            : "https://orcid.com"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "https://twitter.com"
   vine             :
   weibo            :
   xing             :
