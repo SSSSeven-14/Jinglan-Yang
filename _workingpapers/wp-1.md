@@ -1,8 +1,7 @@
 ---
 title: "Do dynamic capabilities of blockchain firms affect firm performance? Based on Text Analysis and 
 Machine Learning"
-excerpt: "Yang, J. “Do dynamic capabilities of blockchain firms affect firm performance? Based on Text Analysis and 
-Machine Learning.” In preparation for submission to Strategic Management Journal (job market paper) <br/>"
+excerpt: "In preparation for submission to Strategic Management Journal (job market paper)"
 collection: workingpapers
 ---
 
