@@ -1,8 +1,8 @@
 ---
 title: "The Prediction of Shanghai and Shenzhen 300 Index Based on 
 H-LSTM Model"
-collection: publications
-permalink: /publication/2021_1
+collection: workingpapers
+permalink: /workingpapers/2021_1
 excerpt:
 date: 2021-10-01
 venue: "China Journal of Econometrics"
