@@ -1,8 +1,14 @@
 ---
-title: "Do dynamic capabilities of blockchain firms affect firm performance? Based on Text Analysis and 
-Machine Learning"
-excerpt: "In preparation for submission to Strategic Management Journal (job market paper)"
-collection: workingpapers
+title: "The Prediction of Shanghai and Shenzhen 300 Index Based on 
+H-LSTM Model"
+collection: publications
+permalink: /publication/2021_1
+excerpt:
+date: 2021-10-01
+venue: "China Journal of Econometrics"
+paperurl: 
+citation: "Ma, C., Yang, J., Ren, Y., Xie, Z. 2021. “The Prediction of Shanghai and Shenzhen 300 Index Based on 
+H-LSTM Model.” China Journal of Econometrics, 1(2): 437-451."
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+[Download paper here](http://google.com)
