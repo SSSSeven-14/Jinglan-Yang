@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Accounting, Hunan University, 2015
-* M.S. in Management Science and Engineering, Hunan University, 2018
-* Ph.D in Business Administration, Hunan University, 2023 (expected)
+* Ph.D in Business Administration, Hunan University, China, 2023 (expected)
+* M.S. in Management Science and Engineering, Hunan University, China, 2018
+* B.S. in Accounting, Gannan Normal University, China, 2015
 
 <!-- Work experience
 ======
@@ -28,12 +28,13 @@ Education
   * Supervisor: Professor Hub -->
 
 Honors and Awards
+======
 * Ph.D. Fellow, Hunan University, 2018
 * Outstanding Volunteer, AIESEC, 2017
 * Excellent Undergraduate with Honor, Gannan Normal University, 2015
 
-
 Research Projects
+======
 * Research on Risk Prevention and Governance of Informal Financial Activities under the 
 Background of FinTech (Grant No. 71850012)
   * Collaborated with professors to research on the governance mechanism and strategy of digital 
@@ -44,6 +45,7 @@ electronic information (Grant No. 2018GK1020)
 firm performance
 
 Patents
+======
 * Ma C., Yang J., Zhou Z., Li X., & Lan Q. 2021-06-11, “Bill Financing Method, System, Equipment and 
 Medium Based on Intelligent Matching Platform.” CN112950203A
 * Ma C., Yang J., Zhou Z., Li X., & Lan Q. 2021-06-11, “Bill Financing Method, System, Equipment and 
