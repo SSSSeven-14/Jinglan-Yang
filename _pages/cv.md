@@ -33,6 +33,14 @@ Honors and Awards
 * Outstanding Volunteer, AIESEC, 2017
 * Excellent Undergraduate with Honor, Gannan Normal University, 2015
 
+Publications
+======
+  <ul>
+    {% for post in site.publications %}
+    {% include archive-single-cv.html %}
+    {% endfor %}
+  </ul>
+
 Research Projects
 ======
 * Research on Risk Prevention and Governance of Informal Financial Activities under the 
@@ -50,14 +58,6 @@ Patents
 Medium Based on Intelligent Matching Platform.” CN112950203A
 * Ma C., Yang J., Zhou Z., Li X., & Lan Q. 2021-06-11, “Bill Financing Method, System, Equipment and 
 Medium Based on Intelligent Auction Platform.” CN112950339A
-
-Publications
-======
-  <ul>
-    {% for post in site.publications %}
-    {% include archive-single-cv.html %}
-    {% endfor %}
-  </ul>
   
 <!-- Talks
 ======
